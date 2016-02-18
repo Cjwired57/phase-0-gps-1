@@ -6,3 +6,5 @@ Here is a really great block of code for the GPS exercise
 What great markup code!
 Isn't this great markup?
 ```
+
+I'm gonna totally blow this up.
